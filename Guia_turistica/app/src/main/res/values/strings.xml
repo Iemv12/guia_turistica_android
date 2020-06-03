@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Coming way</string>
+    <string name="title_activity_mapa">Marcador Detalle</string>
+    <string name="convertidor">Convertidor</string>
+    <string name="idioma">Idioma</string>
+    <string name="compartir">Compartir</string>
+    <string name="uber">Ir en Uber</string>
+    <string name="rusia">Rublo Ruso: 0.83</string>
+    <string name="canada">Dolar Canadiense: 40.28</string>
+    <string name="reino">Reino Unido: 69.61</string>
+    <string name="europa">Euro: 58.85</string>
+    <string name="usa">Dolar: 53.10</string>
+    <string name="valor">Informacion sobre las monedas</string>
+    <string name="titulo">Digite la cantidad y moneda deseada en DOP.</string>
+    <string name="cambio">Elija el idioma.</string>
+
+
+    <!--banearo la toma-->
+    <string name="banearo_la_toma_sc" translatable="false">Balneario La Toma - San Cristobal</string>
+    <string name="banearo_la_toma_sc_descripcion">San Cristóbal cuenta con un balneario de aguas dulces conocido como La Toma, que es donde se construyó la
+        primera represa del país. En este se disfruta de un ambiente agradable y se respira aire limpio.</string>
+
+    <!--Las Cuevas del Pomier-->
+    <string name="las_Cuevas_del_Pomier_sc" translatable="false">Las Cuevas del Pomier - San Cristobal</string>
+    <string name="las_Cuevas_del_Pomier_sc_descripcion">Cavernas verticales y horizontales que abarcan una
+        distancia de 7 kilómetros y en ella existen dibujos hechos a carbón.</string>
+
+    <!--Playa Blanca-->
+    <string name="playa_Blanca_azua" translatable="false">Playa Blanca - Azua</string>
+    <string name="playa_Blanca_azua_descripcion">Playa Blanca se encuentra al sureste de Azua y al oeste de Palmar de Ocoa.</string>
+
+    <!--•	Las Dunas de Bani-->
+    <string name="las_Dunas_de_Bani_bn" translatable="false">Las Dunas de Bani - Peravia</string>
+    <string name="las_Dunas_de_Bani_b_descripcion">Acumulaciones de arena generada por el viento que forma esta belleza natural que se extiende 15 kms  de largo y unos 35 metros de altura.
+        Es un área protegida como monumento natural.</string>
+
+    <!--•	Las Salinas-->
+    <string name="las_Salinas" translatable="false">Las Salinas - Peravia</string>
+    <string name="las_salinas_descripcion">Es una mina de donde se extrae sal
+        para su preparación y distribución, es un atractivo turístico importante de la zona.</string>
+
+
+    <!--•Presa Jigüey-->
+    <string name="Presa_Jigüey" translatable="false">Presa Jigüey - San Jose de Ocoa</string>
+    <string name="Presa_Jigüey_descripcion">La Presa de Jigüey está ubicado en la región sureste
+        de la provincia San José de Ocoa, Republica Dominicana.</string>
+
+    <!--Polo Magnético-->
+    <string name="Polo_Magnético" translatable="false">Polo Magnético - Barahona</string>
+    <string name="Polo_Magnético_descripcion">Es un fenómeno que aún no encuentra explicación científica, muchos dicen que es una ilusión óptica. Aquí las personas se detienen, colocan su automóvil en
+        neutro y misteriosamente parece estar subiendo por la colina ignorando la fuerza de gravedad.</string>
+
+    <!--Balneario y playa San Rafael-->
+    <string name="Balneario_san_rafael" translatable="false">Balneario y playa San Rafael - Barahona</string>
+    <string name="Balneario_san_rafael_descripcion">Aguas provenientes desde las montañas de la Sierra Bahoruco, dan lugar a un balneario con impresionantes cascadas rodeadas de árboles y desemboca en hermosa playa lo que en conjunto forman un
+        lugar exquisito para los turistas. Este Oasis está ubicado a unos 10 km del pueblo de Barahona.</string>
+
+    <!--•Balneario y playa Los Patos-->
+    <string name="Balneario_playa_los_Patos" translatable="false">Balneario y playa los Patos - Barahona</string>
+    <string name="Balneario_playa_los_Patos_descripcion">El río Los Patos es el más corto de las Antillas. En este balneario de frías aguas se pueden ver los peces que allí habitan para deleite y disfrute de los bañistas.
+        La playa con su impresionante color turquesa, la suave gravilla (pequeñas piedras) y las olas que generan un sonido que hacen de este lugar placentero y armonioso.</string>
+
+    <!--•	Balneario Las Marías-->
+    <string name="Balneario_las_marías" translatable="false">Balneario las marías - Bahoruco</string>
+    <string name="Balneario_las_marías_descripcion">Este lago natural de profundas, cristalinas y frías aguas con fondo de
+        gravilla está ubicado en Neiba. Una tradicional costumbre es parase a comprar las uvas y el vino de Neiba.</string>
+
+    <!--•Bahía de las Águilas-->
+    <string name="Bahía_de_las_Águilas" translatable="false">Bahía de las Águilas - Pedernales</string>
+    <string name="Bahía_de_las_Águilas_descripcion">Playa con aguas cristalinas, arenas blancas y paisajes deslumbrantes son cualidades que posee esta Bahía. Es parte del parque nacional Jaragua y fue declarado como Reserva Mundial de
+        la Biosfera por la UNESCO, es llamado el lugar más bello del mundo.</string>
+
+    <!--•Laguna de Oviedo-->
+    <string name="Laguna_de_Oviedo" translatable="false">Laguna de Oviedo - Pedernales</string>
+    <string name="Laguna_de_Oviedo_descripcion">Es el mayor atractivo del parque Nacional Jaragua, aquí podrás disfrutar de excursiones donde observaras diversidad
+        de aves acuáticas, manglares, iguanas, cavernas con arte rupestre y hermosos paisajes.</string>
+
+    <!--•Parque Eólico los Cocos-->
+    <string name="Parque_Eólico_los_Cocos" translatable="false">Parque Eólico los Cocos - Pedernales</string>
+    <string name="Parque_Eólico_los_Cocos_descripcion">Proyecto de aerogeneradores que está recibiendo muchos visitantes, estos gigantes de 125 metros de altura
+        son los que mayor capacidad tienen en el Caribe.</string>
+
+    <!--••	Islas Beata-->
+    <string name="Islas_Beata" translatable="false">Islas Beata - Pedernales</string>
+    <string name="Islas_Beata_descripcion">Beata es una isla situada en el Mar Caribe y perteneciente a la
+        República Dominicana. La isla es plana y con forma de triángulo.</string>
+
+    <!--•	Lago Enriquillo-->
+    <string name="Lago_Enriquillo" translatable="false">Lago Enriquillo - Independencia</string>
+    <string name="Lago_Enriquillo_descripcion">Es el lago más grande y el punto más bajo de todo el Caribe, constituye la mayor reserva de agua de la República Dominicana, en ella se encuentra la Isla cabritos que también es un parque nacional. En el lago puedes observar la diversidad de flora y fauna
+        entre ellas el flamenco, iguana rinoceronte, cocodrilo americano, entre otras.</string>
+
+    <!--•Balneario La Zurza-->
+    <string name="Balneario_La_Zurza" translatable="false">Balneario la Zurza - Independencia</string>
+    <string name="Balneario_La_Zurza_descripcion">Es un balneario que consta de tres piscinas, una con agua
+        natural y dos con aguas azufradas.</string>
+
+    <!--•	Monumento a los Héroes de la Restauracióna-->
+    <string name="Monumento_a_los_Héroes_de_la_Restauración" translatable="false">Monumento a los Héroes de la Restauración - Santiago</string>
+    <string name="Monumento_a_los_Héroes_de_la_Restauración_descripcion">El Monumento a los Héroes de la Restauración mejor conocido como el Monumento de Santiago es el monumento erigido en la ciudad de Santiago de los Caballeros
+        para conmemorar el 100 aniversario de la independencia del país.</string>
+
+    <!--•	27 Charcos-->
+    <string name="Charcos_27" translatable="false">27 Charcos - Puerto Plata</string>
+    <string name="Charcos_27_descripcion">La mayor atracción de Puerto Plata te ofrece un día de caminatas a través de densos bosques, pasando por puentes y descubriendo numerosas especies de flora, antes de llegar a la cima de una colina rocosa desde donde empezará
+        tu descenso ya sea saltando o deslizándote por una serie de cascadas.</string>
+
+    <!--•	La Catedral de la Inmaculada Concepción-->
+    <string name="La_Catedral_Inmaculada_Concepción" translatable="false">La Catedral de la Inmaculada Concepción - La Vega</string>
+    <string name="La_Catedral_Inmaculada_Concepción_descripcion">La catedral de la Inmaculada Concepción es una edificación religiosa de la Iglesia Católica ubicada en la ciudad de La Vega,  en República Dominicana.  Es la Catedral de la Diócesis de La Vega y uno de
+        los santuarios más importantes de la República Dominicana. </string>
+
+    <!--•	Casa Museo Hermanas Mirabal-->
+    <string name="Casa_Museo_Hermanas_Mirabal" translatable="false">Casa Museo Hermanas Mirabal - Salcedo</string>
+    <string name="Casa_Museo_Hermanas_Mirabal_descripcion">Esta fue la residencia donde las hermanas Patria, Minerva y María Teresa Mirabal pasaron sus últimos
+        diez meses antes de sus trágicas muertes el 25 de noviembre de 1960. </string>
+
+    <!--•	Laguna Dudu-->
+    <string name="Laguna_Dudul" translatable="false">Laguna Dudul - Maria Trinidad Sanchez</string>
+    <string name="Laguna_Dudul_descripcion">Una de las atracciones naturales más hermosas de la costa norte, la serie de lagunas de agua dulce color turquesa de la Laguna Dudú, rodeadas de cuevas y exuberantes bosques, te tendrá nadando todo el día. Ubicada en Cabrera, aproximadamente dos horas al este de Puerto Plata, y a una hora de Playa Grande,
+        este parque ofrece un montón de actividades al aire libre.</string>
+
+    <!--•	Cascada Limón-->
+    <string name="Cascada_Limón" translatable="false">Cascada Limón - Samana</string>
+    <string name="Cascada_Limón_descripcion">La Cascada Limón, es un espectacular salto que mide 50 metros de alto, con una hermosa piscina natural debajo, localizada en la comunidad de Limón en Samaná,
+        al Noreste de Republica Dominicana. Este tour tiene una duración de 4 horas.</string>
+
+    <!--•Parque Nacional El Morro-->
+    <string name="Parque_Nacional_Morro" translatable="false">Parque Nacional El Morro - Monte Cristi</string>
+    <string name="Parque_Nacional_Morro_descripcion">El Morro, un afloramiento dramático de piedra caliza, se eleva 242 metros sobre el nivel del mar, adornando el escenario costero de Montecristi con una de las
+        vistas más impresionantes y únicas de República Dominicana. </string>
+
+
+    <!--••	Altos de Chavón-->
+    <string name="Altos_de_Chavón" translatable="false">Altos de Chavón - La Romana</string>
+    <string name="Altos_de_Chavón_descripcion">Altos de Chavón es una villa de tipo mediterráneo antiguo construida en una altura sobre el río Chavón, en La Romana, República Dominicana. Es sede de un Centro Cultural, el Museo Arqueológico nacional, y
+        la llamada Ciudad de los Artistas. Cuenta también con un Anfiteatro Notable.</string>
+
+    <!--•	Hoyo Azul-->
+    <string name="Hoyo_Azul" translatable="false">Hoyo Azul - La Altagracia</string>
+    <string name="Hoyo_Azu_descripcion">Ubicado dentro del Scape Park, en el área de Cap Cana, este cenote ofrece un refrescante baño en aguas de manantiales naturales y frescas. Rodeado de un exuberante bosque lluvioso, cuenta con aproximadamente 14 metros de profundidad y se encuentra al pie de un acantilado
+        de piedra caliza de 75 metros de altura cubierto de vegetación.</string>
+
+    <!--••	Montaña Redonda-->
+    <string name="Montaña_Redonda" translatable="false">Montaña Redonda - El Seibo</string>
+    <string name="Montaña_Redonda_descripcion">Montaña Redonda, es uno de los hermosos lugares con los que cuenta República dominicana para visitar. Está ubicada en Miches en el Municipio de la provincia de El Seibo, entre Laguna Rincón y laguna Redonda. Tiene una altura aproximada de 1,000 pies, cuenta con un hermoso paisaje natural y una maravillosa vista de 360 grados, la cual te permitirá contemplar algunos lugares como:
+        Bahía de Samaná, laguna Redonda, el Limón, Miches y el Seibo.</string>
+
+    <!--•Parque Nacional Los Haitises-->
+    <string name="Parque_Nacional_Los_Haitises" translatable="false">Parque Nacional Los Haitises - Monte Plata</string>
+    <string name="Parque_Nacional_Los_Haitises_descripcion">El Parque Los Haitises fue declarado parque nacional en República Dominicana mediante la Ley 409 del 3 de junio de 1976, aunque ya en 1968 la Ley 244
+        había creado una Reserva Forestal llamada Zona Vedada de Los Haitises.</string>
+
+    <!--•	Alcázar de Colon-->
+    <string name="Alcázar_de_Colon" translatable="false">Alcázar de Colon - Santo Domingo</string>
+    <string name="Alcázar_de_Colon_descripcion">El Alcázar de Colón o Palacio Virreinal de Don Diego Colón es un palacio situado en la Ciudad Colonial de Santo Domingo, República Dominicana, que fue construido sobre un solar cercano a los farallones que miran hacia el río Ozama, concedido a Diego Colón, hijo primogénito del
+        descubridor de América, Cristóbal Colón, por el rey Fernando el Católico.</string>
+
+    <!--•	Parque Nacional Los Tres Ojos-->
+    <string name="Parque_Nacional_Tres_Ojos" translatable="false">Parque Nacional Los Tres Ojos - Santo Domingo</string>
+    <string name="Parque_Nacional_Tres_Ojos_descripcion">El Parque Nacional Los Tres Ojos es una caverna que tiene un lago de agua dulce, dividido naturalmente en tres lagos que sólo se ven desde adentro y un único lago que se puede ver sin necesidad de estar dentro.
+        Ubicado en el municipio Santo Domingo Este en la República Dominicana. </string>
+
+    <!--•	Faro Colon-->
+    <string name="Faro_Colon" translatable="false">Faro Colon - Santo Domingo</string>
+    <string name="Faro_Colon_descripcion">El Faro de Colón, comúnmente conocido como Faro Colón es un monumento y museo dominicano
+        construido en honor a Cristóbal Colón, descubridor del Nuevo Mundo.</string>
+
+
+</resources>

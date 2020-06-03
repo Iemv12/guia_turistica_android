@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/convertidor"
+        android:id="@+id/convertidor"/>
+
+    <item android:title="@string/idioma"
+        android:id="@+id/idioma"/>
+</menu>

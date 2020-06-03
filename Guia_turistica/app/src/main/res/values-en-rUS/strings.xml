@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coming way</string>
+    <string name="Alcázar_de_Colon_descripcion">The Alcazar de Colón or Viceroyalty Palace of Don Diego Colón is a palace located in the Colonial City of Santo Domingo, Dominican Republic, which was built on a plot near the cliffs that face the Ozama River, granted to Diego Colón, eldest son of the discoverer of America, Christopher Columbus, by King Ferdinand the Catholic.</string>
+    <string name="Altos_de_Chavón_descripcion">Altos de Chavón is an ancient Mediterranean-style villa built at a height above the Chavón River, in La Romana, Dominican Republic. It is home to a Cultural Center, the National Archaeological Museum, and the so-called City of Artists. It also has a Notable Amphitheater.</string>
+    <string name="Bahía_de_las_Águilas_descripcion">Beach with crystal clear waters, white sands and dazzling landscapes are qualities that this Bay possesses. It is part of the Jaragua National Park and was declared a World Reserve of The Biosphere by UNESCO is called the most beautiful place in the world.</string>
+    <string name="Balneario_La_Zurza_descripcion">It is a spa that consists of three swimming pools, one with water</string>
+    <string name="Balneario_las_marías_descripcion">This natural lake of deep, crystalline and cold waters with bottom of Gravel is located in Neiba. A traditional custom is to stop buying grapes and Neiba wine.</string>
+    <string name="Balneario_playa_los_Patos_descripcion">The Los Patos river is the shortest of the Antilles. In this spa of cold waters you can see the fish that live there for the delight and enjoyment of bathers.</string>
+    <string name="Balneario_san_rafael_descripcion">Waters from the mountains of the Sierra Bahoruco, give rise to a spa with impressive waterfalls surrounded by trees and flows into a beautiful beach which together form a Exquisite place for tourists. This Oasis is located about 10 km from the town of Barahona.</string>
+    <string name="Casa_Museo_Hermanas_Mirabal_descripcion">This was the residence where the sisters Patria, Minerva and María Teresa Mirabal spent their last ten months before his tragic deaths on November 25, 1960.</string>
+    <string name="Cascada_Limón_descripcion">The Limón Waterfall is a spectacular jump that measures 50 meters high, with a beautiful natural pool below, located in the community of Limón in Samaná,</string>
+    <string name="Charcos_27_descripcion">The biggest attraction of Puerto Plata offers you a day of hiking through dense forests, crossing bridges and discovering numerous species of flora, before reaching the top of a rocky hill from where you will start</string>
+    <string name="Faro_Colon_descripcion">The Faro de Colón, commonly known as Faro Colón is a Dominican monument and museum</string>
+    <string name="Hoyo_Azu_descripcion">Located inside the Scape Park, in the Cap Cana area, this cenote offers a refreshing swim in natural and fresh spring waters. Surrounded by a lush rainforest, it is approximately 14 meters deep and is at the foot of a cliff</string>
+    <string name="Islas_Beata_descripcion">Beata is an island located in the Caribbean Sea and belonging to the</string>
+    <string name="La_Catedral_Inmaculada_Concepción_descripcion">The Immaculate Conception Cathedral is a religious building of the Catholic Church located in the city of La Vega, in the Dominican Republic. It is the Cathedral of the Diocese of La Vega and one of</string>
+    <string name="Lago_Enriquillo_descripcion">It is the largest lake and the lowest point in the entire Caribbean, it is the largest water reserve in the Dominican Republic, it is the kids island that is also a national park. On the lake you can observe the diversity of flora and fauna</string>
+    <string name="Laguna_Dudul_descripcion">One of the most beautiful natural attractions of the north coast, the series of turquoise freshwater lagoons of Laguna Dudú, surrounded by caves and lush forests, will have you swimming all day. Located in Cabrera, approximately two hours east of Puerto Plata, and one hour from Playa Grande,</string>
+    <string name="Laguna_de_Oviedo_descripcion">It is the biggest attraction of the Jaragua National Park, here you can enjoy excursions where you will observe diversity</string>
+    <string name="Montaña_Redonda_descripcion">Montaña Redonda, is one of the beautiful places that Dominican Republic has to visit. It is located in Miches in the Municipality of the province of El Seibo, between Laguna Rincón and Laguna Redonda. It has an approximate height of 1,000 feet, has a beautiful natural landscape and a wonderful 360 degree view, which will allow you to contemplate some places such as:</string>
+    <string name="Monumento_a_los_Héroes_de_la_Restauración_descripcion">The Monument to the Heroes of the Restoration better known as the Monument of Santiago is the monument erected in the city of Santiago de los Caballeros</string>
+    <string name="Parque_Eólico_los_Cocos_descripcion">Wind turbines project that is receiving many visitors, these 125 meter tall giants</string>
+    <string name="Parque_Nacional_Los_Haitises_descripcion">Los Haitises Park was declared a national park in the Dominican Republic by Law 409 of June 3, 1976, although Law 1968 was already in 1968</string>
+    <string name="Parque_Nacional_Morro_descripcion">El Morro, a dramatic limestone outcrop, rises 242 meters above sea level, adorning the Montecristi coastal stage with one of the</string>
+    <string name="Parque_Nacional_Tres_Ojos_descripcion">Los Tres Ojos National Park is a cave that has a freshwater lake, naturally divided into three lakes that can only be seen from the inside and a single lake that can be seen without needing to be inside.</string>
+    <string name="Polo_Magnético_descripcion">It is a phenomenon that still has no scientific explanation, many say it is an optical illusion. Here people stop, put their car in</string>
+    <string name="Presa_Jigüey_descripcion">The Jigüey Dam is located in the southeast region</string>
+    <string name="banearo_la_toma_sc_descripcion">San Cristóbal has a freshwater spa known as La Toma, which is where the</string>
+    <string name="canada">Canadian Dollar: 40.28</string>
+    <string name="compartir">Share</string>
+    <string name="convertidor">Converter</string>
+    <string name="europa">Euro: 58.85</string>
+    <string name="idioma">Language</string>
+    <string name="las_Cuevas_del_Pomier_sc_descripcion">Vertical and horizontal caverns that cover a</string>
+    <string name="las_Dunas_de_Bani_b_descripcion">Accumulations of sand generated by the wind that forms this natural beauty that extends 15 km long and about 35 meters high.</string>
+    <string name="las_salinas_descripcion">It is a mine where salt is extracted</string>
+    <string name="playa_Blanca_azua_descripcion">Playa Blanca is located southeast of Azua and west of Palmar de Ocoa.</string>
+    <string name="reino">United Kingdom: 69.61</string>
+    <string name="rusia">Russian ruble: 0.83</string>
+    <string name="title_activity_mapa">Marker Detail</string>
+    <string name="titulo">Enter the desired amount and currency</string>
+    <string name="uber">Go on Uber</string>
+    <string name="usa">Dollar: 53.10</string>
+    <string name="valor">Information about the currencies in DOP.</string>
+    <string name="cambio">Choose language.</string>
+</resources>
